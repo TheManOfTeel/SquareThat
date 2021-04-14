@@ -1,2 +1,2 @@
 # SquareThat
- A simple VB squaring app
+ A simple VB squaring app.
