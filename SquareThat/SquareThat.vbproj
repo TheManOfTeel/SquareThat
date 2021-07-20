@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BBF5BE2B-BDA2-487E-ADCB-9A9E6EC2B042}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>lecture1012.My.MyApplication</StartupObject>
-    <RootNamespace>lecture1012</RootNamespace>
-    <AssemblyName>lecture1012</AssemblyName>
+    <StartupObject>SquareThat.My.MyApplication</StartupObject>
+    <RootNamespace>SquareThat</RootNamespace>
+    <AssemblyName>SquareThat</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>lecture1012.xml</DocumentationFile>
+    <DocumentationFile>SquareThat.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>lecture1012.xml</DocumentationFile>
+    <DocumentationFile>SquareThat.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
